@@ -74,3 +74,36 @@ Follow these steps to get the project up and running on your local machine:
 git clone https://github.com/avirajdongare/ai-product-manager-autopilot.git
 cd ai-product-manager-autopilot
 ```
+
+## 🚀 Running Locally
+
+Follow these steps to get the project up and running on your local machine:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/avirajdongare/ai-product-manager-autopilot.git
+cd ai-product-manager-autopilot
+```
+
+```bash
+# 2. Create & activate a virtual environment
+python3 -m venv venvpm
+source venvpm/bin/activate  # On Windows use: venvpm\Scripts\activate
+```
+
+# 3. Install all dependencies
+pip install -r requirements.txt
+
+# 4. Create a .env file in the root directory and add the following:
+# (replace placeholders with your actual keys and values)
+GEMINI_API_KEY=your_gemini_key_here  
+JIRA_API_TOKEN=your_jira_token  
+JIRA_EMAIL=your_email@example.com  
+JIRA_DOMAIN=yourdomain.atlassian.net  
+JIRA_PROJECT_KEY=KAN  
+GITHUB_TOKEN=your_github_token  
+GITHUB_REPO=your_username/your_repo  
+
+# 5. Run the FastAPI app locally
+uvicorn app.main:app --reload --port 5000
+
