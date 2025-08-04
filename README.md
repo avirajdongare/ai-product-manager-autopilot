@@ -28,7 +28,7 @@ A smart FastAPI-powered application that transforms high-level product goals int
 > Replace these image links with your actual GitHub image paths once committed.
 
 ### 🎯 Step 1: Enter a Goal in `/react-agent` Endpoint  
-![React Agent Input](<img width="961" height="517" alt="Screenshot 2025-08-03 at 11 32 00 PM" src="https://github.com/user-attachments/assets/2dc0495a-5971-4e0e-aef3-d25edc288d41" />)
+![React Agent Input](<alt="Screenshot 2025-08-03 at 11 32 00 PM" src="https://github.com/user-attachments/assets/2dc0495a-5971-4e0e-aef3-d25edc288d41" />)
 
 
 ---
