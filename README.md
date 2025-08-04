@@ -1,4 +1,4 @@
-# AI-Powered Product Planning Agent
+# Product Planning AI Agent
 
 A smart FastAPI-powered application that transforms high-level product goals into detailed, actionable technical project plans using Google's Gemini API. It integrates with **Jira** to auto-create issues, supports **GitHub issue creation**, and can generate downloadable **PDF reports** of the generated tasks.
 
