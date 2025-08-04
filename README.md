@@ -75,7 +75,7 @@ git clone https://github.com/avirajdongare/ai-product-manager-autopilot.git
 cd ai-product-manager-autopilot
 ```
 
-## 🚀 Running Locally
+##  Running Locally
 
 Follow these steps to get the project up and running on your local machine:
 
@@ -110,4 +110,10 @@ GITHUB_REPO=your_username/your_repo
 ```bash
 # 5. Run the FastAPI app locally
 uvicorn app.main:app --reload --port 5000
+```
+
+```bash
+# 6. Access Swagger UI
+Open your browser and navigate to:
+http://127.0.0.1:5000/docs
 ```
