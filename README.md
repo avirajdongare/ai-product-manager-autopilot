@@ -1,4 +1,4 @@
-# 📊 AI-Powered Product Planning Agent
+# AI-Powered Product Planning Agent
 
 A smart FastAPI-powered application that transforms high-level product goals into detailed, actionable technical project plans using Google's Gemini API. It integrates with **Jira** to auto-create issues, supports **GitHub issue creation**, and can generate downloadable **PDF reports** of the generated tasks.
 
@@ -28,7 +28,8 @@ A smart FastAPI-powered application that transforms high-level product goals int
 > Replace these image links with your actual GitHub image paths once committed.
 
 ### 🎯 Step 1: Enter a Goal in `/react-agent` Endpoint  
-![React Agent Input](./screenshots/Screenshot_2025-08-03_at_11.32.00_PM.png)
+![React Agent Input](<img width="961" height="517" alt="Screenshot 2025-08-03 at 11 32 00 PM" src="https://github.com/user-attachments/assets/2dc0495a-5971-4e0e-aef3-d25edc288d41" />)
+
 
 ---
 
