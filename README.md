@@ -53,3 +53,12 @@ A smart FastAPI-powered application that transforms high-level product goals int
 {
   "goal": "Help me build an internal LLM for JP Morgan Bank"
 }
+
+## 📈 Use Cases
+
+| Role               | Use Case                                                                 |
+|--------------------|--------------------------------------------------------------------------|
+| **TPMs / PMs**      | Auto-generate technical project roadmaps from high-level goals           |
+| **Startups**        | Bootstrap implementation plans for MVPs                                  |
+| **Consultants**     | Create client-ready project plans with deliverables and tech stack       |
+| **Engineering Leads** | Auto-create Jira or GitHub issues from planning discussions             |
