@@ -63,3 +63,14 @@ A smart FastAPI-powered application that transforms high-level product goals int
 | **Startups**        | Bootstrap implementation plans for MVPs                                  |
 | **Consultants**     | Create client-ready project plans with deliverables and tech stack       |
 | **Engineering Leads** | Auto-create Jira or GitHub issues from planning discussions             |
+
+
+## 🚀 Running Locally
+
+Follow these steps to get the project up and running on your local machine:
+
+### 1. **Clone the repository**
+```bash
+git clone https://github.com/avirajdongare/ai-product-manager-autopilot.git
+cd ai-product-manager-autopilot
+```
