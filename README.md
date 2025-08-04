@@ -115,7 +115,6 @@ uvicorn app.main:app --reload --port 5000
 ```bash
 # 6. Access Swagger UI
 Open your browser and navigate to:
-```
-```
+
 http://127.0.0.1:5000/docs
 ```
