@@ -53,6 +53,7 @@ A smart FastAPI-powered application that transforms high-level product goals int
 {
   "goal": "Help me build an internal LLM for JP Morgan Bank"
 }
+```
 
 ## 📈 Use Cases
 
