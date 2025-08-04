@@ -23,24 +23,6 @@ A smart FastAPI-powered application that transforms high-level product goals int
 
 ---
 
-## 📸 Live Demo Screenshots
-
-> Replace these image links with your actual GitHub image paths once committed.
-
-### 🎯 Step 1: Enter a Goal in `/react-agent` Endpoint  
-![React Agent Input](<alt="Screenshot 2025-08-03 at 11 32 00 PM" src="https://github.com/user-attachments/assets/2dc0495a-5971-4e0e-aef3-d25edc288d41" />)
-
-
----
-
-### 🧠 Step 2: AI Generates Detailed, Structured Tasks  
-![Response Example](./screenshots/Screenshot_2025-08-03_at_11.32.36_PM.png)
-
----
-
-### 📎 Step 3: Download Project Plan as a PDF Report  
-![Swagger Docs](./screenshots/Screenshot_2025-08-03_at_11.57.59_PM.png)
-
 ---
 
 ## 🛠️ Technologies Used
